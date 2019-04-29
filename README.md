@@ -1,2 +1,2 @@
-# web-2-framework
-Web 2 Framework
+# webdesignii-midterm
+Web Design 2 Midterm
